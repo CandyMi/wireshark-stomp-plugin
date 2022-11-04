@@ -36,7 +36,7 @@ p_stomp.fields = {
 }
 
 local settings = {
-    TCP_PORT = 54321,
+    TCP_PORT = 61613,
     SSL_PORT = 61614,
     WEBSOCKET_PORT = 9000
 }
